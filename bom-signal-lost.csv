@@ -1,0 +1,13 @@
+reference,part,quantity,unit_price_usd,line_total_usd,vendor,url,notes
+U1,Adafruit QT Py ESP32-S3 4MB/2MB PSRAM #5700,1,12.50,12.50,DigiKey,https://www.digikey.com/en/products/detail/adafruit-industries-llc/5700/21283799,Solder header directly into carrier; USB-C powered
+External amp,Adafruit MAX98357A I2S amp breakout #3006,1,5.95,5.95,Adafruit,https://www.adafruit.com/product/3006,Assembled breakout; wire to J1
+External display,Adafruit 0.91 inch 128x32 STEMMA QT OLED #4440,1,12.50,12.50,Adafruit,https://www.adafruit.com/product/4440,Connect to QT Py STEMMA QT socket
+SW1,Adafruit/Bourns rotary encoder with push switch and knob #377,1,4.50,4.50,Adafruit,https://www.adafruit.com/product/377,PEC11 switch footprint; verify purchased pin pattern
+External speaker,Same Sky CMS-30204-18L250 8 ohm 1 watt speaker,1,2.74,2.74,DigiKey,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/CMS-30204-18L250/24398508,Connect only to amp speaker terminals
+Display cable,Adafruit STEMMA QT/Qwiic 50mm cable #4399,1,0.95,0.95,Adafruit,https://www.adafruit.com/product/4399,4-pin JST SH cable
+U1/J1 headers,Adafruit male break-away header pack #392,1,4.95,4.95,Adafruit,https://www.adafruit.com/product/392,Cut two 7-pin strips plus one 5-pin strip
+Amp leads,Adafruit female-female 3-inch jumper wire pack #1951,1,1.95,1.95,Adafruit,https://www.adafruit.com/product/1951,Use five independent jumpers to amp pins
+"R1,R2",Yageo RC0805FR-10330RL 330 ohm 0805 resistor,2,0.10,0.20,DigiKey,https://www.digikey.com/en/products/detail/yageo/RC0805FR-10330RL/13694160,Hand solder 0805
+"D1,D2",Lite-On LTST-C170GKT green 0805 LED,2,0.17,0.34,DigiKey,https://www.digikey.com/en/products/detail/liteon/LTST-C170GKT/269226,Check polarity before soldering
+PCB,2-layer 80 x 55 mm fabrication,1,,,Choose PCB fab,,Quote PCB price and shipping before ordering
+TOTAL PARTS ONLY,"Excludes PCB, shipping, tax, USB cable and enclosure",,,46.58,,,Prices and availability may change
