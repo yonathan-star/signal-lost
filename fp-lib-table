@@ -1,0 +1,1 @@
+(fp_lib_table (lib (name "SignalLost")(type "KiCad")(uri "${KIPRJMOD}/SignalLost.pretty")(options "")(descr "Signal Lost footprints")))

@@ -1,0 +1,5 @@
+firmware/.pio/
+*.kicad_prl
+*.lck
+~*.lck
+*-backups/
