@@ -7,7 +7,7 @@ Signal Lost: an interactive PCB radio that tunes into fictional transmissions
 
 ## Engineering prototype
 
-This repository includes an AI-assisted KiCad carrier PCB design and prototype firmware. The schematic has zero ERC errors or warnings, the board has zero DRC errors and zero unconnected pads with one touch-pad silkscreen warning, and the firmware compiles. The hardware has not been assembled or physically tested.
+This repository includes a KiCad carrier PCB design and prototype firmware. The schematic has zero ERC errors or warnings, the board has zero DRC errors and zero unconnected pads with one touch-pad silkscreen warning, and the firmware compiles. The hardware has not been assembled or physically tested.
 
 - [Editable KiCad project](signal-lost.kicad_pro), [schematic](signal-lost.kicad_sch), and [PCB](signal-lost.kicad_pcb)
 - [Schematic PDF](schematic.pdf)
