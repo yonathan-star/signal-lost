@@ -9,5 +9,5 @@ U1/J1 headers,Adafruit male break-away header pack #392,1,4.95,4.95,DigiKey,http
 Amp leads,Adafruit female-female 6-inch jumper wire pack #1950,1,1.95,1.95,Adafruit,https://www.adafruit.com/product/1950,Use five independent jumpers to amp pins
 "R1,R2",Yageo RC0805FR-10330RL 330 ohm 0805 resistor,2,0.10,0.20,DigiKey,https://www.digikey.com/en/products/detail/yageo/RC0805FR-10330RL/13694160,Hand solder 0805
 "D1,D2",Lite-On LTST-C170GKT green 0805 LED,2,0.17,0.34,DigiKey,https://www.digikey.com/en/products/detail/liteon/LTST-C170GKT/269226,Check polarity before soldering
-PCB,2-layer 80 x 55 mm fabrication,1,,,Choose PCB fab,,Quote PCB price and shipping before ordering
-TOTAL PARTS ONLY,"Excludes PCB, shipping, tax, USB cable and enclosure",,,46.58,,,Prices and availability may change
+PCB,5-board batch: 80 x 55 mm 2-layer FR-4 lead-free HASL,1,5.20,5.20,JLCPCB,https://cart.jlcpcb.com/quote,"Manual quote on October 11 2026; subject to Gerber review. US shipping estimate $7.13, excluded here."
+TOTAL PARTS ONLY,"Includes PCB fabrication; excludes shipping, tax, tariffs, USB cable and enclosure",,,51.78,,,Prices and availability may change
