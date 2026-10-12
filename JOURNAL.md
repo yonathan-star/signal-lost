@@ -16,7 +16,7 @@
 
 1. [2026-10-11 – ## Project idea](#2026-10-11-project-idea)
 2. [2026-10-11 – ## PCB layout](#2026-10-11-pcb-layout)
-3. [2026-10-11 – Parts and assembly planning](#2026-10-11-parts-and-assembly-planning)
+3. [2026-10-11 – ##Parts and assembly planning](#2026-10-11-parts-and-assembly-planning)
 
 ## Design
 
@@ -66,17 +66,17 @@ I programmed different synthesized sounds for Night Weather, Distress, Numbers, 
 
 ![Current repository artifact: s2-audio.jpg](https://raw.githubusercontent.com/yonathan-star/signal-lost/4be935f/journal-evidence/2026-10-11/s2-audio.jpg)
 
-### 2026-10-11 – Parts and assembly planning
+### 2026-10-11 – ##Parts and assembly planning
 
 **5h**
 
-Parts and assembly planning
+##Parts and assembly planning
 I put together a parts list and documented how the controller, OLED, amplifier, and speaker connect. This gives me a clear reference for assembling the prototype.
 
-Verification
+##Verification
 I documented the design checks: the schematic passed without errors or warnings, and the PCB had no errors or unconnected pads, with one silkscreen warning. The firmware compiled successfully; physical assembly and testing are still ahead.
 
-Fabrication files
+##Fabrication files
 I exported Gerbers, drill files, schematic previews, and a complete design package. These collect the files needed for board fabrication and reviewing the prototype.
 
 ![Current repository artifact: s3-bom.jpg](https://raw.githubusercontent.com/yonathan-star/signal-lost/4be935f/journal-evidence/2026-10-11/s3-bom.jpg)
