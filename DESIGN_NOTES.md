@@ -1,6 +1,6 @@
 # Signal Lost engineering prototype
 
-This is an editable, AI-assisted engineering prototype for your inspection and learning. It is not a tested build or a claim of original student work. Read and redraw or substantially adapt the design before using it for a Half Life submission; write your own README and journal entries describing what you actually made and tested.
+This is an editable engineering prototype. The hardware has not been assembled or physically tested.
 
 ## What the PCB does
 
