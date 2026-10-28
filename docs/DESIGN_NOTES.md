@@ -24,12 +24,15 @@ Use five separate jumper wires because the breakout pin order includes other pin
 
 ## Files
 
-- `signal-lost.kicad_sch`, `signal-lost.kicad_pcb`, `signal-lost.kicad_pro`: editable KiCad 9 design.
-- `SignalLost.kicad_sym`, `SignalLost.pretty/`, library tables: custom symbol and footprints needed by the design.
+- `PCB/`: editable KiCad 9 project, schematic, board, custom symbols, footprints, and project-local library tables. Open `PCB/signal-lost.kicad_pro`; keep the folder intact.
 - `firmware/`: PlatformIO source for the QT Py ESP32-S3 4 MB flash / 2 MB PSRAM variant.
-- `gerbers/` and `signal-lost-gerbers.zip`: fabrication outputs from the board design.
-- `bom-signal-lost.csv`: parts list with current individual prices and vendor links; **$46.58 parts subtotal** before PCB fabrication, shipping, tax, USB cable and enclosure. Confirm prices before ordering.
-- `board-render.png`, `board-back.png`, `schematic.pdf`: visual references.
+- `fabrication/gerbers/` and `fabrication/signal-lost-gerbers.zip`: manufacturing outputs.
+- `bom-signal-lost.csv`: component quantities, listed prices, and vendor links; see the README for the recorded funding totals. Confirm prices before ordering.
+- `images/`: front/back board renders, schematic PNG, and schematic SVG.
+- `docs/schematic.pdf` and `docs/verification/`: readable schematic and existing KiCad check reports.
+- `JOURNAL.md` and `BOM.md`: records mirrored from Half Life; their pinned historical image URLs remain unchanged.
+
+All paths above are relative to the repository root.
 
 ## Verification and remaining work
 
